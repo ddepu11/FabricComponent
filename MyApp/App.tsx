@@ -9,7 +9,7 @@ function App(): JSX.Element {
 
       <RTNCenteredText
         text="Hello World!"
-        style={{width: '100%', height: 30}}
+        style={{width: '100%', height: 230, marginTop: 50}}
       />
     </SafeAreaView>
   );
